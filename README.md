@@ -1,1 +1,1 @@
-# Greg Wardwell CSS/Sass Guide
+# Greg Wardwell CSS/Sass Guidelines
